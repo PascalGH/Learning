@@ -1,3 +1,4 @@
+#Comment
 a = ''
 
 def inverse(chaine):
